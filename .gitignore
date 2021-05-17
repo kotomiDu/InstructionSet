@@ -1,0 +1,8 @@
+x64/
+Win32/
+Debug/
+Release/
+.vs/
+InstructionSet/Debug/
+InstructionSet/Win32/
+InstructionSet/Release/
